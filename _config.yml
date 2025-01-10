@@ -12,9 +12,9 @@ title                    : "Jiyah's home"
 title_separator          : # "-"
 name                     : &name "Yi-Ching Cheng"
 description              : &description "Welcome to the personal website of Jiyah, where I share my projects and research."
-url                      : https://jiyah.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jiyah30.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jiyah30/jiyah.github.io"
+repository               : "Jiyah30/Jiyah30.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
